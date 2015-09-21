@@ -1,0 +1,67 @@
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\App.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\App.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\geography.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\geography.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\history.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\history.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\MainPage.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\MainPage.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Maths.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Maths.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\XamlTypeInfo.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\App.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\XamlSaveStateFile.xml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\geography.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\history.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\MainPage.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Maths.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\geography.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\history.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Maths.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\geography.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\history.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Maths.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\General Knowlege Quiz.Windows.xr.xml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\General Knowlege Quiz.Windows.exe
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\General Knowlege Quiz.Windows.pdb
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\resources.pri
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\AppxManifest.xml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\General Knowlege Quiz.Windows.build.appxrecipe
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\General Knowlege Quiz.Windows.exe
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\General Knowlege Quiz.Windows.pdb
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\priconfig.xml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\priconfig.xml.intermediate
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\layout.resfiles
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\layout.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\resources.resfiles
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\resources.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\pri.resfiles
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\pri.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\qualifiers.txt
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\qualifiers.txt.intermediate
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\ProjectArchitectures.txt
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Quiz.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Quiz.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Quiz.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Quiz.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Quiz.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Games.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Games.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Games.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Games.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Games.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\about.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\about.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\about.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\about.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\about.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Score.xbf
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Score.g.i.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Score.g.cs
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Score.xaml
+A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\Score.xbf

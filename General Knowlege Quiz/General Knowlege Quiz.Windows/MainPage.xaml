@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="General_Knowlege_Quiz.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:General_Knowlege_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+        <Image Height="831" Source="Images/QuizBackCover.png" HorizontalAlignment="Left" Margin="0,-35,0,-28" Width="1366" VerticalAlignment="Center"/>
+
+
+        <Button x:Name="about" Content="About" HorizontalAlignment="Left" Margin="113,615.726,0,0" VerticalAlignment="Top" Width="309" Height="119" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Bold" Foreground="Red" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Tapped="about_Tapped">
+            <Button.RenderTransform>
+                <CompositeTransform SkewY="-0.654" TranslateY="-1.489"/>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="play" Content="Play" HorizontalAlignment="Left" Margin="971,609,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="44" FontWeight="Bold" Foreground="Red" Height="126" Width="310" Tapped="play_Tapped" />
+        <Grid x:Name="Snap" Visibility="Collapsed"  >
+            <Image Stretch="Fill" Source="Images/QuizBackCover.png" />
+        </Grid>
+
+    </Grid>
+</Page>

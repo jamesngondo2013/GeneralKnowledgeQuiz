@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYME</Machine>
+    <WindowsUser>James</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9115ea5e-9959-4664-8bed-9281f7a24fba</PackageIdentityName>
+    <IntermediateOutputPath>A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\General Knowlege Quiz.Windows.exe">
+      <PackagePath>General Knowlege Quiz.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\back.png">
+      <PackagePath>Images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\exit.png">
+      <PackagePath>Images\exit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\geography.png">
+      <PackagePath>Images\geography.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\history.png">
+      <PackagePath>Images\history.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\maths.png">
+      <PackagePath>Images\maths.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\QuizBackCover.PNG">
+      <PackagePath>Images\QuizBackCover.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\QuizCover.PNG">
+      <PackagePath>Images\QuizCover.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\score.png">
+      <PackagePath>Images\score.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\Images\scores.png">
+      <PackagePath>Images\scores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Quiz.xbf">
+      <PackagePath>Quiz.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Games.xbf">
+      <PackagePath>Games.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\geography.xbf">
+      <PackagePath>geography.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\history.xbf">
+      <PackagePath>history.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Maths.xbf">
+      <PackagePath>Maths.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\Score.xbf">
+      <PackagePath>Score.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\General Knowlege Quiz.Windows.xr.xml">
+      <PackagePath>General Knowlege Quiz.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz\General Knowlege Quiz.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
